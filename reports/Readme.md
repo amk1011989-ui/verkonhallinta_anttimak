@@ -10,7 +10,19 @@ tehtävätiedoston saamisessa GitHubiin.
 
 			Viikko 2
 
-Käytin em. mallia tällä viikolla asiavirheiden ja kirjoitusasun tarkistamiseen jossain kohdin tekstiä ja Linux-komentojen
-muistelemisessa taas. 
+Käytin em. mallia tällä viikolla asiavirheiden ja kirjoitusasun tarkistamiseen jossain kohdin tekstiä ja 
+Linux-komentojen muistelemisessa taas. 
 
 
+			Viikko 3
+
+Käytin em. mallia Node Explorerin käynnistämiseen kun sen kanssa oli aluksi pieniä vaikeuksia, kuvien viemisessä 
+WSL-koneen kansioon ja raportin viemisessä GitHubiin kun kaikki oli jo unohtunut parissa viikossa. 
+
+			Viikko 4
+
+Käytin em. mallia playbookin tekemiseen ja tarkemmin nginx-palvelimen asennuksen syntaksin kanssa. Myöskään 
+playbookin ajamisen tuottaman virheen korjaaminen ei onnistunut omin voimin, kun ilmeisesti nginx oli käynnissä,
+mutta siihen ei jostain syystä saatu yhteyttä. Järjestelmätietojen keräämiseen tarvitsin myös apua tiedon suodattamisessa,
+joten pyysin tekoälyä antamaan komentoja joilla saan halutut tiedot ilman että joudun koluamaan sivu kaupalla tekstiä
+oikean tiedon toivossa. 
