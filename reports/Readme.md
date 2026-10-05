@@ -26,3 +26,8 @@ playbookin ajamisen tuottaman virheen korjaaminen ei onnistunut omin voimin, kun
 mutta siihen ei jostain syystä saatu yhteyttä. Järjestelmätietojen keräämiseen tarvitsin myös apua tiedon suodattamisessa,
 joten pyysin tekoälyä antamaan komentoja joilla saan halutut tiedot ilman että joudun koluamaan sivu kaupalla tekstiä
 oikean tiedon toivossa. 
+
+			Viikko 5
+
+Käytin tämän viikon tehtävässä ChatGPT 5.6 Solia pyydettyjen tietojen löytämiseen ja oikeinden pakettien etsimiseen,
+koska en saanut Youtube-videosarjasta ja materiaaleista riittävästi eväitä näiden tietojen onnistuneeseen keräämiseen. 
